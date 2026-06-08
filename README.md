@@ -25,11 +25,16 @@ The objective of this task is to gain hands-on experience with Kubernetes resour
 
 ```text
 ElevateLabs-DevOps-Task5/
-│
-├── deployment.yaml      # Kubernetes Deployment configuration
-├── service.yaml         # Kubernetes Service configuration
-├── configmap.yaml       # Kubernetes ConfigMap configuration
-└── README.md            # Project documentation
+├── README.md
+├── deployment.yaml
+├── service.yaml
+├── configmap.yaml
+└── Screenshots/
+    ├── minikube-status.png
+    ├── pods-running.png
+    ├── deployments.png
+    ├── services.png
+    └── app-output.png
 ```
 
 ---
